@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dave
+- 👋 Hi, I’m Ruben
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning AI
 
 <!---
-AlulaDave/AlulaDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ruben-al17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
